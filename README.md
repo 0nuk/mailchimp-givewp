@@ -27,11 +27,11 @@ You need to configure the script by setting the following variables at the begin
 
 You must configure merge fields in Mailchimp with the following names:
 
-- FIRST_NAME (Type text)
-- LAST_NAME (Type text)
-- DONOR_ID (Type number)
-- TOTAL_DONA (Type number)
-- TOTAL_SPEN (Type number)
+- `FIRST_NAME` (Type text)
+- `LAST_NAME` (Type text)
+- `DONOR_ID`(Type number)
+- `TOTAL_DONA` (Type number)
+- `TOTAL_SPEN` (Type number)
 
 Ensure that these merge field names match the names specified in the script for proper data mapping.
 
